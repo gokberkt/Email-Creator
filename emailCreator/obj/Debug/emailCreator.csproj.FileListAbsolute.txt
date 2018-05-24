@@ -1,0 +1,14 @@
+c:\users\gokberk\source\repos\emailCreator\emailCreator\bin\Debug\emailCreator.exe.config
+c:\users\gokberk\source\repos\emailCreator\emailCreator\bin\Debug\emailCreator.exe
+c:\users\gokberk\source\repos\emailCreator\emailCreator\bin\Debug\emailCreator.pdb
+c:\users\gokberk\source\repos\emailCreator\emailCreator\bin\Debug\EntityFramework.dll
+c:\users\gokberk\source\repos\emailCreator\emailCreator\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gokberk\source\repos\emailCreator\emailCreator\bin\Debug\EntityFramework.xml
+c:\users\gokberk\source\repos\emailCreator\emailCreator\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gokberk\source\repos\emailCreator\emailCreator\obj\Debug\emailCreator.csprojResolveAssemblyReference.cache
+c:\users\gokberk\source\repos\emailCreator\emailCreator\obj\Debug\emailCreator.Form1.resources
+c:\users\gokberk\source\repos\emailCreator\emailCreator\obj\Debug\emailCreator.Properties.Resources.resources
+c:\users\gokberk\source\repos\emailCreator\emailCreator\obj\Debug\emailCreator.csproj.GenerateResource.Cache
+c:\users\gokberk\source\repos\emailCreator\emailCreator\obj\Debug\emailCreator.csproj.CoreCompileInputs.cache
+c:\users\gokberk\source\repos\emailCreator\emailCreator\obj\Debug\emailCreator.exe
+c:\users\gokberk\source\repos\emailCreator\emailCreator\obj\Debug\emailCreator.pdb
